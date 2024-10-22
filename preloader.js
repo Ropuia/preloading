@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https://cdn.jsdelivr.net/gh/Ropuia/upcLoading/827.svg';
+svgImage.src = 'https://cdn.jsdelivr.net/gh/Ropuia/preloading/827.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
